@@ -1,0 +1,25 @@
+c:\users\cisco\documents\visual studio 2010\Projects\numerosP\numerosP\bin\Debug\numerosP.exe
+c:\users\cisco\documents\visual studio 2010\Projects\numerosP\numerosP\bin\Debug\numerosP.pdb
+c:\users\cisco\documents\visual studio 2010\Projects\numerosP\numerosP\obj\x86\Debug\numerosP.Form1.resources
+c:\users\cisco\documents\visual studio 2010\Projects\numerosP\numerosP\obj\x86\Debug\numerosP.Properties.Resources.resources
+c:\users\cisco\documents\visual studio 2010\Projects\numerosP\numerosP\obj\x86\Debug\numerosP.csproj.GenerateResource.Cache
+c:\users\cisco\documents\visual studio 2010\Projects\numerosP\numerosP\obj\x86\Debug\numerosP.exe
+c:\users\cisco\documents\visual studio 2010\Projects\numerosP\numerosP\obj\x86\Debug\numerosP.pdb
+E:\numerosP\numerosP\obj\x86\Debug\numerosP.exe
+E:\numerosP\numerosP\obj\x86\Debug\numerosP.pdb
+F:\numerosP\numerosP\obj\x86\Debug\numerosP.exe
+F:\numerosP\numerosP\obj\x86\Debug\numerosP.pdb
+F:\numerosP\numerosP\bin\Debug\numerosP.exe
+F:\numerosP\numerosP\bin\Debug\numerosP.pdb
+F:\numerosP\numerosP\obj\x86\Debug\numerosP.csprojResolveAssemblyReference.cache
+F:\numerosP\numerosP\obj\x86\Debug\numerosP.Form1.resources
+F:\numerosP\numerosP\obj\x86\Debug\numerosP.Properties.Resources.resources
+F:\numerosP\numerosP\obj\x86\Debug\numerosP.csproj.GenerateResource.Cache
+E:\numerosP - copia\numerosP\obj\x86\Debug\numerosP.exe
+E:\numerosP - copia\numerosP\obj\x86\Debug\numerosP.pdb
+E:\numerosP - copia\numerosP\bin\Debug\numerosP.exe
+E:\numerosP - copia\numerosP\bin\Debug\numerosP.pdb
+E:\numerosP - copia\numerosP\obj\x86\Debug\numerosP.csprojResolveAssemblyReference.cache
+E:\numerosP - copia\numerosP\obj\x86\Debug\numerosP.Form1.resources
+E:\numerosP - copia\numerosP\obj\x86\Debug\numerosP.Properties.Resources.resources
+E:\numerosP - copia\numerosP\obj\x86\Debug\numerosP.csproj.GenerateResource.Cache
